@@ -13,6 +13,7 @@ N/A
 This project allows more accessibility to all the viewers that will be using this webpage. This is because the code now includes semantic elements and attributes.
 
 ![challenge-1-readme-screenshot.png](./assets/images/challenge-1-readme-screenshot.png)
+(https://vitafomin.github.io/challenge-1-code-refactor/)
 
 
 ## Credits
